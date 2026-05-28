@@ -1,0 +1,1041 @@
+﻿doc_id,document_type,field_name,expected_value
+di_0001,DI,document_type,DI
+di_0001,DI,document_number,25/1419610-4
+di_0001,DI,registration_date,06/05/2025
+di_0001,DI,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+di_0001,DI,importer_cnpj,11.755.002/6577-44
+di_0001,DI,declarant_cnpj,28.714.227/1333-20
+di_0001,DI,ncm,40169300
+di_0001,DI,container_number,NZJO8685702
+di_0001,DI,gross_weight_kg,"10.102,863"
+di_0001,DI,bl_number,HBL45NQ4FMYZ
+di_0001,DI,country_origin,ITALIA
+di_0001,DI,customs_value_brl,"619.153,26"
+di_0001,DI,port_terminal,PORTO DEMONSTRATIVO
+di_0002,DI,document_type,DI
+di_0002,DI,document_number,26/5211234-1
+di_0002,DI,registration_date,24/01/2026
+di_0002,DI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+di_0002,DI,importer_cnpj,05.134.662/6369-20
+di_0002,DI,declarant_cnpj,99.682.111/8836-56
+di_0002,DI,ncm,87089990
+di_0002,DI,container_number,LSZE4778025
+di_0002,DI,gross_weight_kg,"9.955,323"
+di_0002,DI,bl_number,MBLMIJC725TB
+di_0002,DI,country_origin,ESTADOS UNIDOS
+di_0002,DI,customs_value_brl,"777.368,57"
+di_0002,DI,port_terminal,PORTO DEMONSTRATIVO
+di_0003,DI,document_type,DI
+di_0003,DI,document_number,26/2381132-8
+di_0003,DI,registration_date,03/07/2025
+di_0003,DI,importer_name,ATLANTICO SUL INDUSTRIA E COMERCIO LTDA
+di_0003,DI,importer_cnpj,94.430.840/9111-15
+di_0003,DI,declarant_cnpj,44.562.048/1776-74
+di_0003,DI,ncm,73181500
+di_0003,DI,container_number,KVXW3116059
+di_0003,DI,gross_weight_kg,"13.554,334"
+di_0003,DI,bl_number,MSCUBVUURCRJ0
+di_0003,DI,country_origin,MEXICO
+di_0003,DI,customs_value_brl,"286.637,24"
+di_0003,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+di_0004,DI,document_type,DI
+di_0004,DI,document_number,26/8797657-0
+di_0004,DI,registration_date,28/12/2025
+di_0004,DI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+di_0004,DI,importer_cnpj,56.944.932/9049-54
+di_0004,DI,declarant_cnpj,19.977.352/5874-02
+di_0004,DI,ncm,84713012
+di_0004,DI,container_number,WQTO9351160
+di_0004,DI,gross_weight_kg,"5.897,844"
+di_0004,DI,bl_number,ONEYXC3OW76OW
+di_0004,DI,country_origin,ALEMANHA
+di_0004,DI,customs_value_brl,"200.027,39"
+di_0004,DI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+di_0005,DI,document_type,DI
+di_0005,DI,document_number,26/3081710-2
+di_0005,DI,registration_date,08/10/2025
+di_0005,DI,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+di_0005,DI,importer_cnpj,58.242.293/1564-26
+di_0005,DI,declarant_cnpj,67.495.935/7841-94
+di_0005,DI,ncm,85044040
+di_0005,DI,container_number,WTXT6364489
+di_0005,DI,gross_weight_kg,"27.273,237"
+di_0005,DI,bl_number,HBLHX1ETKI1W
+di_0005,DI,country_origin,CHINA
+di_0005,DI,customs_value_brl,"678.891,45"
+di_0005,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+di_0006,DI,document_type,DI
+di_0006,DI,document_number,25/5017111-4
+di_0006,DI,registration_date,22/08/2025
+di_0006,DI,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+di_0006,DI,importer_cnpj,45.178.628/3948-83
+di_0006,DI,declarant_cnpj,21.286.799/9294-40
+di_0006,DI,ncm,94036000
+di_0006,DI,container_number,DWZE8863863
+di_0006,DI,gross_weight_kg,"29.922,416"
+di_0006,DI,bl_number,SUDU2H8NA8GET
+di_0006,DI,country_origin,MEXICO
+di_0006,DI,customs_value_brl,"131.242,07"
+di_0006,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+di_0007,DI,document_type,DI
+di_0007,DI,document_number,26/1391747-9
+di_0007,DI,registration_date,03/06/2025
+di_0007,DI,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+di_0007,DI,importer_cnpj,35.018.987/2382-86
+di_0007,DI,declarant_cnpj,06.077.114/0178-87
+di_0007,DI,ncm,40169300
+di_0007,DI,container_number,XMKP6486528
+di_0007,DI,gross_weight_kg,"26.122,107"
+di_0007,DI,bl_number,ONEYDS9GVMB9K
+di_0007,DI,country_origin,ITALIA
+di_0007,DI,customs_value_brl,"53.996,59"
+di_0007,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+di_0008,DI,document_type,DI
+di_0008,DI,document_number,26/2756023-7
+di_0008,DI,registration_date,27/02/2026
+di_0008,DI,importer_name,ATLANTICO SUL INDUSTRIA E COMERCIO LTDA
+di_0008,DI,importer_cnpj,14.013.316/8742-90
+di_0008,DI,declarant_cnpj,79.435.078/2317-79
+di_0008,DI,ncm,73181500
+di_0008,DI,container_number,TGNF2312107
+di_0008,DI,gross_weight_kg,"18.993,270"
+di_0008,DI,bl_number,MSCUJYLERX61P
+di_0008,DI,country_origin,CHINA
+di_0008,DI,customs_value_brl,"124.864,81"
+di_0008,DI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+di_0009,DI,document_type,DI
+di_0009,DI,document_number,26/2447065-3
+di_0009,DI,registration_date,05/08/2025
+di_0009,DI,importer_name,COSTA AZUL TRADING S A
+di_0009,DI,importer_cnpj,14.485.043/0880-45
+di_0009,DI,declarant_cnpj,85.851.655/2738-86
+di_0009,DI,ncm,85044040
+di_0009,DI,container_number,COZW3714438
+di_0009,DI,gross_weight_kg,"16.347,841"
+di_0009,DI,bl_number,MBLFVC3OCMPZ
+di_0009,DI,country_origin,CHINA
+di_0009,DI,customs_value_brl,"809.182,25"
+di_0009,DI,port_terminal,PORTO DEMONSTRATIVO
+di_0010,DI,document_type,DI
+di_0010,DI,document_number,25/2916529-1
+di_0010,DI,registration_date,15/04/2026
+di_0010,DI,importer_name,ATLANTICO SUL INDUSTRIA E COMERCIO LTDA
+di_0010,DI,importer_cnpj,32.796.784/3345-91
+di_0010,DI,declarant_cnpj,30.146.524/5251-31
+di_0010,DI,ncm,39269090
+di_0010,DI,container_number,GTGN4908324
+di_0010,DI,gross_weight_kg,"10.128,370"
+di_0010,DI,bl_number,COSUVPDBEXXX5
+di_0010,DI,country_origin,COREIA DO SUL
+di_0010,DI,customs_value_brl,"718.733,76"
+di_0010,DI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+di_0011,DI,document_type,DI
+di_0011,DI,document_number,26/8969386-3
+di_0011,DI,registration_date,14/05/2025
+di_0011,DI,importer_name,COSTA AZUL TRADING S A
+di_0011,DI,importer_cnpj,05.403.698/5411-18
+di_0011,DI,declarant_cnpj,83.455.266/7367-41
+di_0011,DI,ncm,85371090
+di_0011,DI,container_number,ZPWR9695388
+di_0011,DI,gross_weight_kg,"29.853,048"
+di_0011,DI,bl_number,HBL89F5DR2YG
+di_0011,DI,country_origin,ALEMANHA
+di_0011,DI,customs_value_brl,"160.395,77"
+di_0011,DI,port_terminal,PORTO DEMONSTRATIVO
+di_0012,DI,document_type,DI
+di_0012,DI,document_number,26/9075289-5
+di_0012,DI,registration_date,20/04/2026
+di_0012,DI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+di_0012,DI,importer_cnpj,97.322.928/7120-09
+di_0012,DI,declarant_cnpj,41.661.776/3581-41
+di_0012,DI,ncm,94036000
+di_0012,DI,container_number,EILF9168892
+di_0012,DI,gross_weight_kg,"14.610,925"
+di_0012,DI,bl_number,HBLPMWND79VK
+di_0012,DI,country_origin,ESTADOS UNIDOS
+di_0012,DI,customs_value_brl,"225.770,02"
+di_0012,DI,port_terminal,PORTO DEMONSTRATIVO
+di_0013,DI,document_type,DI
+di_0013,DI,document_number,25/7012421-7
+di_0013,DI,registration_date,09/09/2025
+di_0013,DI,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+di_0013,DI,importer_cnpj,79.891.580/7985-38
+di_0013,DI,declarant_cnpj,93.674.548/0619-46
+di_0013,DI,ncm,40169300
+di_0013,DI,container_number,LGBM2403624
+di_0013,DI,gross_weight_kg,"21.552,174"
+di_0013,DI,bl_number,HBLXTFGCWAI3
+di_0013,DI,country_origin,ESTADOS UNIDOS
+di_0013,DI,customs_value_brl,"532.564,00"
+di_0013,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+di_0014,DI,document_type,DI
+di_0014,DI,document_number,26/1764172-6
+di_0014,DI,registration_date,13/01/2025
+di_0014,DI,importer_name,ATLANTICO SUL INDUSTRIA E COMERCIO LTDA
+di_0014,DI,importer_cnpj,95.721.451/5667-37
+di_0014,DI,declarant_cnpj,44.095.751/4781-95
+di_0014,DI,ncm,40169300
+di_0014,DI,container_number,HZNK5062649
+di_0014,DI,gross_weight_kg,"4.521,906"
+di_0014,DI,bl_number,SUDU5XLTF28SY
+di_0014,DI,country_origin,ALEMANHA
+di_0014,DI,customs_value_brl,"195.535,36"
+di_0014,DI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+di_0015,DI,document_type,DI
+di_0015,DI,document_number,26/4719563-0
+di_0015,DI,registration_date,25/10/2025
+di_0015,DI,importer_name,COSTA AZUL TRADING S A
+di_0015,DI,importer_cnpj,07.588.447/9178-85
+di_0015,DI,declarant_cnpj,98.556.619/0912-50
+di_0015,DI,ncm,85371090
+di_0015,DI,container_number,KLLC7000177
+di_0015,DI,gross_weight_kg,"26.191,212"
+di_0015,DI,bl_number,COSUBBCUBOVQT
+di_0015,DI,country_origin,INDIA
+di_0015,DI,customs_value_brl,"316.127,19"
+di_0015,DI,port_terminal,PORTO DEMONSTRATIVO
+di_0016,DI,document_type,DI
+di_0016,DI,document_number,25/2630877-3
+di_0016,DI,registration_date,27/10/2025
+di_0016,DI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+di_0016,DI,importer_cnpj,76.121.214/5098-79
+di_0016,DI,declarant_cnpj,97.107.349/7935-53
+di_0016,DI,ncm,85044040
+di_0016,DI,container_number,DEXZ7417179
+di_0016,DI,gross_weight_kg,"6.795,044"
+di_0016,DI,bl_number,HBL9D69K62LN
+di_0016,DI,country_origin,CHINA
+di_0016,DI,customs_value_brl,"60.850,47"
+di_0016,DI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+di_0017,DI,document_type,DI
+di_0017,DI,document_number,25/7479123-0
+di_0017,DI,registration_date,18/04/2025
+di_0017,DI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+di_0017,DI,importer_cnpj,51.884.208/4912-38
+di_0017,DI,declarant_cnpj,70.968.603/2840-95
+di_0017,DI,ncm,87089990
+di_0017,DI,container_number,ZPBR9589036
+di_0017,DI,gross_weight_kg,"28.670,331"
+di_0017,DI,bl_number,COSU1WEHSC5FK
+di_0017,DI,country_origin,ALEMANHA
+di_0017,DI,customs_value_brl,"279.911,78"
+di_0017,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+di_0018,DI,document_type,DI
+di_0018,DI,document_number,26/8871637-6
+di_0018,DI,registration_date,07/12/2025
+di_0018,DI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+di_0018,DI,importer_cnpj,23.980.216/1014-80
+di_0018,DI,declarant_cnpj,56.404.354/4361-80
+di_0018,DI,ncm,85371090
+di_0018,DI,container_number,HDAW8880840
+di_0018,DI,gross_weight_kg,"19.130,781"
+di_0018,DI,bl_number,COSU3T2SZPB7Q
+di_0018,DI,country_origin,ALEMANHA
+di_0018,DI,customs_value_brl,"892.705,87"
+di_0018,DI,port_terminal,PORTO DEMONSTRATIVO
+di_0019,DI,document_type,DI
+di_0019,DI,document_number,26/8018767-9
+di_0019,DI,registration_date,01/01/2026
+di_0019,DI,importer_name,COSTA AZUL TRADING S A
+di_0019,DI,importer_cnpj,01.414.861/2193-37
+di_0019,DI,declarant_cnpj,58.937.036/9111-13
+di_0019,DI,ncm,87089990
+di_0019,DI,container_number,LUYM2574823
+di_0019,DI,gross_weight_kg,"13.967,732"
+di_0019,DI,bl_number,MSCUPLVR370LO
+di_0019,DI,country_origin,ALEMANHA
+di_0019,DI,customs_value_brl,"420.778,55"
+di_0019,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+di_0020,DI,document_type,DI
+di_0020,DI,document_number,25/6412420-2
+di_0020,DI,registration_date,19/08/2025
+di_0020,DI,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+di_0020,DI,importer_cnpj,26.531.219/8457-91
+di_0020,DI,declarant_cnpj,10.602.804/6556-62
+di_0020,DI,ncm,94036000
+di_0020,DI,container_number,VDHU8036614
+di_0020,DI,gross_weight_kg,"12.884,366"
+di_0020,DI,bl_number,COSUMPWJSMF7W
+di_0020,DI,country_origin,ESTADOS UNIDOS
+di_0020,DI,customs_value_brl,"280.928,87"
+di_0020,DI,port_terminal,RECINTO ALFANDEGADO MODELO
+duimp_0001,DUIMP,document_type,DUIMP
+duimp_0001,DUIMP,document_number,BR257862680951
+duimp_0001,DUIMP,registration_date,17/11/2025
+duimp_0001,DUIMP,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+duimp_0001,DUIMP,importer_cnpj,41.029.237/8418-14
+duimp_0001,DUIMP,declarant_cnpj,09.368.448/0885-21
+duimp_0001,DUIMP,ncm,85371090
+duimp_0001,DUIMP,container_number,XDAK9549350
+duimp_0001,DUIMP,gross_weight_kg,"5.859,194"
+duimp_0001,DUIMP,bl_number,ONEYJXMJEG6OV
+duimp_0001,DUIMP,country_origin,ESTADOS UNIDOS
+duimp_0001,DUIMP,customs_value_brl,"102.212,30"
+duimp_0001,DUIMP,port_terminal,RECINTO ALFANDEGADO MODELO
+duimp_0002,DUIMP,document_type,DUIMP
+duimp_0002,DUIMP,document_number,BR263211351472
+duimp_0002,DUIMP,registration_date,25/07/2025
+duimp_0002,DUIMP,importer_name,COSTA AZUL TRADING S A
+duimp_0002,DUIMP,importer_cnpj,70.292.282/3617-51
+duimp_0002,DUIMP,declarant_cnpj,73.740.012/3027-51
+duimp_0002,DUIMP,ncm,39269090
+duimp_0002,DUIMP,container_number,QCFX4919167
+duimp_0002,DUIMP,gross_weight_kg,"10.255,976"
+duimp_0002,DUIMP,bl_number,HBL0OP8IFG8D
+duimp_0002,DUIMP,country_origin,CHINA
+duimp_0002,DUIMP,customs_value_brl,"306.035,05"
+duimp_0002,DUIMP,port_terminal,RECINTO ALFANDEGADO MODELO
+duimp_0003,DUIMP,document_type,DUIMP
+duimp_0003,DUIMP,document_number,BR269341858090
+duimp_0003,DUIMP,registration_date,16/03/2026
+duimp_0003,DUIMP,importer_name,COSTA AZUL TRADING S A
+duimp_0003,DUIMP,importer_cnpj,52.239.832/8357-59
+duimp_0003,DUIMP,declarant_cnpj,85.713.122/3369-99
+duimp_0003,DUIMP,ncm,39269090
+duimp_0003,DUIMP,container_number,RCYU2865203
+duimp_0003,DUIMP,gross_weight_kg,"17.952,428"
+duimp_0003,DUIMP,bl_number,COSUYIICW5NDM
+duimp_0003,DUIMP,country_origin,MEXICO
+duimp_0003,DUIMP,customs_value_brl,"357.091,01"
+duimp_0003,DUIMP,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+duimp_0004,DUIMP,document_type,DUIMP
+duimp_0004,DUIMP,document_number,BR254786376297
+duimp_0004,DUIMP,registration_date,04/01/2026
+duimp_0004,DUIMP,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+duimp_0004,DUIMP,importer_cnpj,90.742.764/9534-67
+duimp_0004,DUIMP,declarant_cnpj,56.594.511/9036-32
+duimp_0004,DUIMP,ncm,94036000
+duimp_0004,DUIMP,container_number,MKNJ7481926
+duimp_0004,DUIMP,gross_weight_kg,"7.221,796"
+duimp_0004,DUIMP,bl_number,ONEY37U58Y177
+duimp_0004,DUIMP,country_origin,COREIA DO SUL
+duimp_0004,DUIMP,customs_value_brl,"556.549,04"
+duimp_0004,DUIMP,port_terminal,PORTO DEMONSTRATIVO
+duimp_0005,DUIMP,document_type,DUIMP
+duimp_0005,DUIMP,document_number,BR253764853914
+duimp_0005,DUIMP,registration_date,26/07/2025
+duimp_0005,DUIMP,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+duimp_0005,DUIMP,importer_cnpj,15.062.415/8406-55
+duimp_0005,DUIMP,declarant_cnpj,23.365.962/1727-75
+duimp_0005,DUIMP,ncm,40169300
+duimp_0005,DUIMP,container_number,DIGU5301161
+duimp_0005,DUIMP,gross_weight_kg,"20.903,147"
+duimp_0005,DUIMP,bl_number,ONEY2PUNKDXMF
+duimp_0005,DUIMP,country_origin,CHINA
+duimp_0005,DUIMP,customs_value_brl,"722.748,31"
+duimp_0005,DUIMP,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+duimp_0006,DUIMP,document_type,DUIMP
+duimp_0006,DUIMP,document_number,BR266400228512
+duimp_0006,DUIMP,registration_date,12/01/2025
+duimp_0006,DUIMP,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+duimp_0006,DUIMP,importer_cnpj,87.224.031/8094-36
+duimp_0006,DUIMP,declarant_cnpj,95.610.923/0819-13
+duimp_0006,DUIMP,ncm,39269090
+duimp_0006,DUIMP,container_number,XGTY2451383
+duimp_0006,DUIMP,gross_weight_kg,"11.963,734"
+duimp_0006,DUIMP,bl_number,COSUER6YPIA2I
+duimp_0006,DUIMP,country_origin,CHINA
+duimp_0006,DUIMP,customs_value_brl,"780.476,99"
+duimp_0006,DUIMP,port_terminal,RECINTO ALFANDEGADO MODELO
+duimp_0007,DUIMP,document_type,DUIMP
+duimp_0007,DUIMP,document_number,BR262237207796
+duimp_0007,DUIMP,registration_date,19/03/2026
+duimp_0007,DUIMP,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+duimp_0007,DUIMP,importer_cnpj,15.154.595/9920-35
+duimp_0007,DUIMP,declarant_cnpj,78.649.030/6884-47
+duimp_0007,DUIMP,ncm,40169300
+duimp_0007,DUIMP,container_number,LWHO7367300
+duimp_0007,DUIMP,gross_weight_kg,"25.098,407"
+duimp_0007,DUIMP,bl_number,HBLVHAE2W2CH
+duimp_0007,DUIMP,country_origin,INDIA
+duimp_0007,DUIMP,customs_value_brl,"479.127,62"
+duimp_0007,DUIMP,port_terminal,PORTO DEMONSTRATIVO
+duimp_0008,DUIMP,document_type,DUIMP
+duimp_0008,DUIMP,document_number,BR267465216472
+duimp_0008,DUIMP,registration_date,10/03/2025
+duimp_0008,DUIMP,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+duimp_0008,DUIMP,importer_cnpj,62.813.637/5093-55
+duimp_0008,DUIMP,declarant_cnpj,69.229.895/1202-84
+duimp_0008,DUIMP,ncm,85044040
+duimp_0008,DUIMP,container_number,ELIP7604154
+duimp_0008,DUIMP,gross_weight_kg,"7.934,625"
+duimp_0008,DUIMP,bl_number,HBLZ7M1WWSSC
+duimp_0008,DUIMP,country_origin,ESTADOS UNIDOS
+duimp_0008,DUIMP,customs_value_brl,"564.930,45"
+duimp_0008,DUIMP,port_terminal,RECINTO ALFANDEGADO MODELO
+duimp_0009,DUIMP,document_type,DUIMP
+duimp_0009,DUIMP,document_number,BR256007684233
+duimp_0009,DUIMP,registration_date,14/04/2026
+duimp_0009,DUIMP,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+duimp_0009,DUIMP,importer_cnpj,15.587.662/4179-57
+duimp_0009,DUIMP,declarant_cnpj,49.270.266/0403-85
+duimp_0009,DUIMP,ncm,94036000
+duimp_0009,DUIMP,container_number,DGOH6382591
+duimp_0009,DUIMP,gross_weight_kg,"29.426,200"
+duimp_0009,DUIMP,bl_number,MSCU6S267D391
+duimp_0009,DUIMP,country_origin,COREIA DO SUL
+duimp_0009,DUIMP,customs_value_brl,"177.596,62"
+duimp_0009,DUIMP,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+duimp_0010,DUIMP,document_type,DUIMP
+duimp_0010,DUIMP,document_number,BR257927996672
+duimp_0010,DUIMP,registration_date,01/09/2025
+duimp_0010,DUIMP,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+duimp_0010,DUIMP,importer_cnpj,15.793.552/0072-37
+duimp_0010,DUIMP,declarant_cnpj,41.011.244/7888-70
+duimp_0010,DUIMP,ncm,85371090
+duimp_0010,DUIMP,container_number,EWRE1357109
+duimp_0010,DUIMP,gross_weight_kg,"8.748,691"
+duimp_0010,DUIMP,bl_number,HBLTA5VO0TJX
+duimp_0010,DUIMP,country_origin,ALEMANHA
+duimp_0010,DUIMP,customs_value_brl,"425.259,22"
+duimp_0010,DUIMP,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+duimp_0011,DUIMP,document_type,DUIMP
+duimp_0011,DUIMP,document_number,BR265161781843
+duimp_0011,DUIMP,registration_date,07/07/2025
+duimp_0011,DUIMP,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+duimp_0011,DUIMP,importer_cnpj,27.503.461/2246-23
+duimp_0011,DUIMP,declarant_cnpj,24.706.361/9480-60
+duimp_0011,DUIMP,ncm,73181500
+duimp_0011,DUIMP,container_number,JIYO5233241
+duimp_0011,DUIMP,gross_weight_kg,"25.263,062"
+duimp_0011,DUIMP,bl_number,ONEYWV9DUH4PF
+duimp_0011,DUIMP,country_origin,MEXICO
+duimp_0011,DUIMP,customs_value_brl,"566.303,96"
+duimp_0011,DUIMP,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+duimp_0012,DUIMP,document_type,DUIMP
+duimp_0012,DUIMP,document_number,BR268919681982
+duimp_0012,DUIMP,registration_date,12/02/2025
+duimp_0012,DUIMP,importer_name,COSTA AZUL TRADING S A
+duimp_0012,DUIMP,importer_cnpj,90.666.051/2401-21
+duimp_0012,DUIMP,declarant_cnpj,37.955.402/4160-53
+duimp_0012,DUIMP,ncm,73181500
+duimp_0012,DUIMP,container_number,UZHI1651590
+duimp_0012,DUIMP,gross_weight_kg,"8.199,217"
+duimp_0012,DUIMP,bl_number,SUDU94PZ1H6RJ
+duimp_0012,DUIMP,country_origin,INDIA
+duimp_0012,DUIMP,customs_value_brl,"751.083,38"
+duimp_0012,DUIMP,port_terminal,PORTO DEMONSTRATIVO
+duimp_0013,DUIMP,document_type,DUIMP
+duimp_0013,DUIMP,document_number,BR256570727269
+duimp_0013,DUIMP,registration_date,07/01/2025
+duimp_0013,DUIMP,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+duimp_0013,DUIMP,importer_cnpj,94.208.039/1989-07
+duimp_0013,DUIMP,declarant_cnpj,71.794.355/1468-81
+duimp_0013,DUIMP,ncm,73181500
+duimp_0013,DUIMP,container_number,OLNJ1038864
+duimp_0013,DUIMP,gross_weight_kg,"19.450,692"
+duimp_0013,DUIMP,bl_number,HBLU0BR413DO
+duimp_0013,DUIMP,country_origin,CHINA
+duimp_0013,DUIMP,customs_value_brl,"812.122,64"
+duimp_0013,DUIMP,port_terminal,RECINTO ALFANDEGADO MODELO
+duimp_0014,DUIMP,document_type,DUIMP
+duimp_0014,DUIMP,document_number,BR264762426102
+duimp_0014,DUIMP,registration_date,12/02/2025
+duimp_0014,DUIMP,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+duimp_0014,DUIMP,importer_cnpj,22.784.959/4632-84
+duimp_0014,DUIMP,declarant_cnpj,68.790.064/5959-32
+duimp_0014,DUIMP,ncm,39269090
+duimp_0014,DUIMP,container_number,FWTL8661281
+duimp_0014,DUIMP,gross_weight_kg,"8.429,205"
+duimp_0014,DUIMP,bl_number,ONEY7XW6ZBDUA
+duimp_0014,DUIMP,country_origin,MEXICO
+duimp_0014,DUIMP,customs_value_brl,"606.597,58"
+duimp_0014,DUIMP,port_terminal,RECINTO ALFANDEGADO MODELO
+duimp_0015,DUIMP,document_type,DUIMP
+duimp_0015,DUIMP,document_number,BR254623110232
+duimp_0015,DUIMP,registration_date,12/11/2025
+duimp_0015,DUIMP,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+duimp_0015,DUIMP,importer_cnpj,32.495.101/0638-32
+duimp_0015,DUIMP,declarant_cnpj,75.706.862/0157-50
+duimp_0015,DUIMP,ncm,84713012
+duimp_0015,DUIMP,container_number,AVCA3579245
+duimp_0015,DUIMP,gross_weight_kg,"22.858,260"
+duimp_0015,DUIMP,bl_number,MSCU1GYNSL0AM
+duimp_0015,DUIMP,country_origin,COREIA DO SUL
+duimp_0015,DUIMP,customs_value_brl,"173.039,54"
+duimp_0015,DUIMP,port_terminal,PORTO DEMONSTRATIVO
+duimp_0016,DUIMP,document_type,DUIMP
+duimp_0016,DUIMP,document_number,BR269242461243
+duimp_0016,DUIMP,registration_date,26/05/2025
+duimp_0016,DUIMP,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+duimp_0016,DUIMP,importer_cnpj,41.959.254/6770-21
+duimp_0016,DUIMP,declarant_cnpj,73.476.133/3115-81
+duimp_0016,DUIMP,ncm,87089990
+duimp_0016,DUIMP,container_number,NYIO1976606
+duimp_0016,DUIMP,gross_weight_kg,"2.251,688"
+duimp_0016,DUIMP,bl_number,SUDUOY9G87ES8
+duimp_0016,DUIMP,country_origin,COREIA DO SUL
+duimp_0016,DUIMP,customs_value_brl,"456.205,55"
+duimp_0016,DUIMP,port_terminal,PORTO DEMONSTRATIVO
+duimp_0017,DUIMP,document_type,DUIMP
+duimp_0017,DUIMP,document_number,BR267539546414
+duimp_0017,DUIMP,registration_date,03/05/2025
+duimp_0017,DUIMP,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+duimp_0017,DUIMP,importer_cnpj,28.722.664/5284-05
+duimp_0017,DUIMP,declarant_cnpj,95.827.045/2251-80
+duimp_0017,DUIMP,ncm,87089990
+duimp_0017,DUIMP,container_number,ARMF6381684
+duimp_0017,DUIMP,gross_weight_kg,"7.281,797"
+duimp_0017,DUIMP,bl_number,COSUAWJDRDLX7
+duimp_0017,DUIMP,country_origin,COREIA DO SUL
+duimp_0017,DUIMP,customs_value_brl,"769.117,94"
+duimp_0017,DUIMP,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+duimp_0018,DUIMP,document_type,DUIMP
+duimp_0018,DUIMP,document_number,BR252897241300
+duimp_0018,DUIMP,registration_date,11/06/2025
+duimp_0018,DUIMP,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+duimp_0018,DUIMP,importer_cnpj,63.093.754/1719-48
+duimp_0018,DUIMP,declarant_cnpj,54.701.679/0030-47
+duimp_0018,DUIMP,ncm,73181500
+duimp_0018,DUIMP,container_number,ETGH9480108
+duimp_0018,DUIMP,gross_weight_kg,"9.591,543"
+duimp_0018,DUIMP,bl_number,MBLY5P5T0EEO
+duimp_0018,DUIMP,country_origin,INDIA
+duimp_0018,DUIMP,customs_value_brl,"496.830,88"
+duimp_0018,DUIMP,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+duimp_0019,DUIMP,document_type,DUIMP
+duimp_0019,DUIMP,document_number,BR266174049145
+duimp_0019,DUIMP,registration_date,23/03/2025
+duimp_0019,DUIMP,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+duimp_0019,DUIMP,importer_cnpj,16.767.037/7906-35
+duimp_0019,DUIMP,declarant_cnpj,73.422.045/0150-08
+duimp_0019,DUIMP,ncm,87089990
+duimp_0019,DUIMP,container_number,IXSH8253164
+duimp_0019,DUIMP,gross_weight_kg,"20.248,457"
+duimp_0019,DUIMP,bl_number,ONEYT34BT144R
+duimp_0019,DUIMP,country_origin,MEXICO
+duimp_0019,DUIMP,customs_value_brl,"820.341,64"
+duimp_0019,DUIMP,port_terminal,PORTO DEMONSTRATIVO
+duimp_0020,DUIMP,document_type,DUIMP
+duimp_0020,DUIMP,document_number,BR251836092345
+duimp_0020,DUIMP,registration_date,12/05/2025
+duimp_0020,DUIMP,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+duimp_0020,DUIMP,importer_cnpj,72.116.033/2373-62
+duimp_0020,DUIMP,declarant_cnpj,42.987.916/3708-26
+duimp_0020,DUIMP,ncm,85371090
+duimp_0020,DUIMP,container_number,IGFS0959648
+duimp_0020,DUIMP,gross_weight_kg,"7.417,109"
+duimp_0020,DUIMP,bl_number,SUDUIPVQMHBCX
+duimp_0020,DUIMP,country_origin,ALEMANHA
+duimp_0020,DUIMP,customs_value_brl,"389.972,03"
+duimp_0020,DUIMP,port_terminal,RECINTO ALFANDEGADO MODELO
+ddi_0001,DDI,document_type,DDI
+ddi_0001,DDI,document_number,DDI-2026-478849
+ddi_0001,DDI,registration_date,13/03/2025
+ddi_0001,DDI,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+ddi_0001,DDI,importer_cnpj,30.258.349/0824-49
+ddi_0001,DDI,declarant_cnpj,57.686.691/8440-36
+ddi_0001,DDI,ncm,94036000
+ddi_0001,DDI,container_number,YKWX8822587
+ddi_0001,DDI,gross_weight_kg,"2.553,053"
+ddi_0001,DDI,bl_number,COSUEVGCBSECW
+ddi_0001,DDI,country_origin,MEXICO
+ddi_0001,DDI,customs_value_brl,"138.830,67"
+ddi_0001,DDI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ddi_0002,DDI,document_type,DDI
+ddi_0002,DDI,document_number,DDI-2026-995239
+ddi_0002,DDI,registration_date,27/01/2026
+ddi_0002,DDI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ddi_0002,DDI,importer_cnpj,81.888.678/3690-01
+ddi_0002,DDI,declarant_cnpj,78.180.894/8668-26
+ddi_0002,DDI,ncm,85044040
+ddi_0002,DDI,container_number,JGJN1013684
+ddi_0002,DDI,gross_weight_kg,"28.483,038"
+ddi_0002,DDI,bl_number,ONEYRF6OOITPR
+ddi_0002,DDI,country_origin,MEXICO
+ddi_0002,DDI,customs_value_brl,"251.244,24"
+ddi_0002,DDI,port_terminal,RECINTO ALFANDEGADO MODELO
+ddi_0003,DDI,document_type,DDI
+ddi_0003,DDI,document_number,DDI-2026-203628
+ddi_0003,DDI,registration_date,05/07/2025
+ddi_0003,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0003,DDI,importer_cnpj,07.148.260/2240-13
+ddi_0003,DDI,declarant_cnpj,92.679.187/0479-01
+ddi_0003,DDI,ncm,39269090
+ddi_0003,DDI,container_number,AXAP6108397
+ddi_0003,DDI,gross_weight_kg,"12.891,708"
+ddi_0003,DDI,bl_number,MBL4CG2NX6AM
+ddi_0003,DDI,country_origin,MEXICO
+ddi_0003,DDI,customs_value_brl,"541.353,85"
+ddi_0003,DDI,port_terminal,RECINTO ALFANDEGADO MODELO
+ddi_0004,DDI,document_type,DDI
+ddi_0004,DDI,document_number,DDI-2025-284162
+ddi_0004,DDI,registration_date,16/04/2026
+ddi_0004,DDI,importer_name,COSTA AZUL TRADING S A
+ddi_0004,DDI,importer_cnpj,40.519.245/8964-77
+ddi_0004,DDI,declarant_cnpj,92.771.574/2048-97
+ddi_0004,DDI,ncm,94036000
+ddi_0004,DDI,container_number,XJTS6984903
+ddi_0004,DDI,gross_weight_kg,"28.356,756"
+ddi_0004,DDI,bl_number,ONEYZKQJXKBUG
+ddi_0004,DDI,country_origin,COREIA DO SUL
+ddi_0004,DDI,customs_value_brl,"691.477,93"
+ddi_0004,DDI,port_terminal,RECINTO ALFANDEGADO MODELO
+ddi_0005,DDI,document_type,DDI
+ddi_0005,DDI,document_number,DDI-2025-292464
+ddi_0005,DDI,registration_date,02/10/2025
+ddi_0005,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0005,DDI,importer_cnpj,03.674.314/4966-04
+ddi_0005,DDI,declarant_cnpj,16.491.535/0475-19
+ddi_0005,DDI,ncm,87089990
+ddi_0005,DDI,container_number,KFKX3000736
+ddi_0005,DDI,gross_weight_kg,"2.104,154"
+ddi_0005,DDI,bl_number,HBLBEXS1CKY0
+ddi_0005,DDI,country_origin,INDIA
+ddi_0005,DDI,customs_value_brl,"883.879,64"
+ddi_0005,DDI,port_terminal,RECINTO ALFANDEGADO MODELO
+ddi_0006,DDI,document_type,DDI
+ddi_0006,DDI,document_number,DDI-2025-775830
+ddi_0006,DDI,registration_date,18/10/2025
+ddi_0006,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0006,DDI,importer_cnpj,94.035.268/5222-49
+ddi_0006,DDI,declarant_cnpj,58.977.733/7279-46
+ddi_0006,DDI,ncm,39269090
+ddi_0006,DDI,container_number,EBDS1324733
+ddi_0006,DDI,gross_weight_kg,"29.563,703"
+ddi_0006,DDI,bl_number,MBLQ6WL5YJ1G
+ddi_0006,DDI,country_origin,ESTADOS UNIDOS
+ddi_0006,DDI,customs_value_brl,"408.442,12"
+ddi_0006,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0007,DDI,document_type,DDI
+ddi_0007,DDI,document_number,DDI-2025-787475
+ddi_0007,DDI,registration_date,15/04/2026
+ddi_0007,DDI,importer_name,COSTA AZUL TRADING S A
+ddi_0007,DDI,importer_cnpj,28.781.656/0616-44
+ddi_0007,DDI,declarant_cnpj,86.144.954/7607-07
+ddi_0007,DDI,ncm,73181500
+ddi_0007,DDI,container_number,ZQWC9928419
+ddi_0007,DDI,gross_weight_kg,"8.372,528"
+ddi_0007,DDI,bl_number,HBLTKPLVW8E8
+ddi_0007,DDI,country_origin,ITALIA
+ddi_0007,DDI,customs_value_brl,"277.519,61"
+ddi_0007,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0008,DDI,document_type,DDI
+ddi_0008,DDI,document_number,DDI-2026-158194
+ddi_0008,DDI,registration_date,02/04/2025
+ddi_0008,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0008,DDI,importer_cnpj,11.503.474/1461-22
+ddi_0008,DDI,declarant_cnpj,31.575.213/5630-36
+ddi_0008,DDI,ncm,94036000
+ddi_0008,DDI,container_number,XJCI4105241
+ddi_0008,DDI,gross_weight_kg,"6.974,282"
+ddi_0008,DDI,bl_number,MBLF2LRUHQGD
+ddi_0008,DDI,country_origin,MEXICO
+ddi_0008,DDI,customs_value_brl,"349.329,35"
+ddi_0008,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0009,DDI,document_type,DDI
+ddi_0009,DDI,document_number,DDI-2025-461234
+ddi_0009,DDI,registration_date,02/03/2026
+ddi_0009,DDI,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+ddi_0009,DDI,importer_cnpj,26.413.413/4800-62
+ddi_0009,DDI,declarant_cnpj,16.131.618/8294-91
+ddi_0009,DDI,ncm,87089990
+ddi_0009,DDI,container_number,TOGE4583694
+ddi_0009,DDI,gross_weight_kg,"15.645,091"
+ddi_0009,DDI,bl_number,HBLAXNQOUX1F
+ddi_0009,DDI,country_origin,ITALIA
+ddi_0009,DDI,customs_value_brl,"738.109,18"
+ddi_0009,DDI,port_terminal,RECINTO ALFANDEGADO MODELO
+ddi_0010,DDI,document_type,DDI
+ddi_0010,DDI,document_number,DDI-2026-306662
+ddi_0010,DDI,registration_date,31/12/2025
+ddi_0010,DDI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ddi_0010,DDI,importer_cnpj,83.683.027/7237-52
+ddi_0010,DDI,declarant_cnpj,71.747.569/9929-11
+ddi_0010,DDI,ncm,39269090
+ddi_0010,DDI,container_number,EGXL4616654
+ddi_0010,DDI,gross_weight_kg,"19.554,853"
+ddi_0010,DDI,bl_number,SUDUGS7D7CMI3
+ddi_0010,DDI,country_origin,COREIA DO SUL
+ddi_0010,DDI,customs_value_brl,"77.316,41"
+ddi_0010,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0011,DDI,document_type,DDI
+ddi_0011,DDI,document_number,DDI-2026-150838
+ddi_0011,DDI,registration_date,25/01/2026
+ddi_0011,DDI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ddi_0011,DDI,importer_cnpj,56.445.856/4226-53
+ddi_0011,DDI,declarant_cnpj,91.223.105/9308-13
+ddi_0011,DDI,ncm,85371090
+ddi_0011,DDI,container_number,PEYU0076050
+ddi_0011,DDI,gross_weight_kg,"12.438,109"
+ddi_0011,DDI,bl_number,COSUA90KBN9YW
+ddi_0011,DDI,country_origin,ALEMANHA
+ddi_0011,DDI,customs_value_brl,"819.105,18"
+ddi_0011,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0012,DDI,document_type,DDI
+ddi_0012,DDI,document_number,DDI-2026-575938
+ddi_0012,DDI,registration_date,12/05/2025
+ddi_0012,DDI,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+ddi_0012,DDI,importer_cnpj,09.384.135/6032-90
+ddi_0012,DDI,declarant_cnpj,13.242.943/4302-69
+ddi_0012,DDI,ncm,85044040
+ddi_0012,DDI,container_number,DWTB7185475
+ddi_0012,DDI,gross_weight_kg,"5.570,320"
+ddi_0012,DDI,bl_number,MBLVZQ3TV4GR
+ddi_0012,DDI,country_origin,MEXICO
+ddi_0012,DDI,customs_value_brl,"369.057,50"
+ddi_0012,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0013,DDI,document_type,DDI
+ddi_0013,DDI,document_number,DDI-2026-636393
+ddi_0013,DDI,registration_date,09/03/2026
+ddi_0013,DDI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ddi_0013,DDI,importer_cnpj,70.809.103/4057-28
+ddi_0013,DDI,declarant_cnpj,14.764.126/3612-43
+ddi_0013,DDI,ncm,84713012
+ddi_0013,DDI,container_number,UOJA8585297
+ddi_0013,DDI,gross_weight_kg,"5.399,066"
+ddi_0013,DDI,bl_number,SUDU4B58O0L74
+ddi_0013,DDI,country_origin,CHINA
+ddi_0013,DDI,customs_value_brl,"328.138,38"
+ddi_0013,DDI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ddi_0014,DDI,document_type,DDI
+ddi_0014,DDI,document_number,DDI-2025-319841
+ddi_0014,DDI,registration_date,26/05/2025
+ddi_0014,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0014,DDI,importer_cnpj,62.592.944/3113-27
+ddi_0014,DDI,declarant_cnpj,61.565.556/5669-18
+ddi_0014,DDI,ncm,39269090
+ddi_0014,DDI,container_number,YJCV8683934
+ddi_0014,DDI,gross_weight_kg,"12.926,344"
+ddi_0014,DDI,bl_number,ONEYGA8V53PLW
+ddi_0014,DDI,country_origin,CHINA
+ddi_0014,DDI,customs_value_brl,"838.068,31"
+ddi_0014,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0015,DDI,document_type,DDI
+ddi_0015,DDI,document_number,DDI-2025-876581
+ddi_0015,DDI,registration_date,20/01/2025
+ddi_0015,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0015,DDI,importer_cnpj,98.082.861/3327-24
+ddi_0015,DDI,declarant_cnpj,33.409.505/6171-07
+ddi_0015,DDI,ncm,84713012
+ddi_0015,DDI,container_number,NSYX5118721
+ddi_0015,DDI,gross_weight_kg,"21.045,050"
+ddi_0015,DDI,bl_number,MSCUBUUW4NQOT
+ddi_0015,DDI,country_origin,INDIA
+ddi_0015,DDI,customs_value_brl,"715.744,48"
+ddi_0015,DDI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ddi_0016,DDI,document_type,DDI
+ddi_0016,DDI,document_number,DDI-2025-898246
+ddi_0016,DDI,registration_date,21/06/2025
+ddi_0016,DDI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ddi_0016,DDI,importer_cnpj,08.620.840/3647-24
+ddi_0016,DDI,declarant_cnpj,23.824.512/6032-24
+ddi_0016,DDI,ncm,40169300
+ddi_0016,DDI,container_number,ETKE0659044
+ddi_0016,DDI,gross_weight_kg,"15.402,676"
+ddi_0016,DDI,bl_number,HBLINY7PTHKO
+ddi_0016,DDI,country_origin,CHINA
+ddi_0016,DDI,customs_value_brl,"104.344,74"
+ddi_0016,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0017,DDI,document_type,DDI
+ddi_0017,DDI,document_number,DDI-2025-933168
+ddi_0017,DDI,registration_date,30/10/2025
+ddi_0017,DDI,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ddi_0017,DDI,importer_cnpj,45.305.645/5572-67
+ddi_0017,DDI,declarant_cnpj,20.803.508/0278-20
+ddi_0017,DDI,ncm,85371090
+ddi_0017,DDI,container_number,YHJD3429527
+ddi_0017,DDI,gross_weight_kg,"10.935,413"
+ddi_0017,DDI,bl_number,MSCUZXZJCMZDH
+ddi_0017,DDI,country_origin,ITALIA
+ddi_0017,DDI,customs_value_brl,"878.482,18"
+ddi_0017,DDI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ddi_0018,DDI,document_type,DDI
+ddi_0018,DDI,document_number,DDI-2025-137395
+ddi_0018,DDI,registration_date,16/01/2026
+ddi_0018,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0018,DDI,importer_cnpj,69.013.084/4535-53
+ddi_0018,DDI,declarant_cnpj,23.691.372/8911-94
+ddi_0018,DDI,ncm,94036000
+ddi_0018,DDI,container_number,TZRZ6027704
+ddi_0018,DDI,gross_weight_kg,"7.031,903"
+ddi_0018,DDI,bl_number,MBL12BVM2UDE
+ddi_0018,DDI,country_origin,INDIA
+ddi_0018,DDI,customs_value_brl,"162.666,41"
+ddi_0018,DDI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ddi_0019,DDI,document_type,DDI
+ddi_0019,DDI,document_number,DDI-2025-847510
+ddi_0019,DDI,registration_date,07/06/2025
+ddi_0019,DDI,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+ddi_0019,DDI,importer_cnpj,59.708.594/5638-65
+ddi_0019,DDI,declarant_cnpj,13.892.925/9234-02
+ddi_0019,DDI,ncm,40169300
+ddi_0019,DDI,container_number,YSOH4691743
+ddi_0019,DDI,gross_weight_kg,"5.629,757"
+ddi_0019,DDI,bl_number,MSCUMG8VQMU4M
+ddi_0019,DDI,country_origin,ESTADOS UNIDOS
+ddi_0019,DDI,customs_value_brl,"605.397,52"
+ddi_0019,DDI,port_terminal,PORTO DEMONSTRATIVO
+ddi_0020,DDI,document_type,DDI
+ddi_0020,DDI,document_number,DDI-2025-941823
+ddi_0020,DDI,registration_date,12/02/2026
+ddi_0020,DDI,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ddi_0020,DDI,importer_cnpj,34.400.167/3372-60
+ddi_0020,DDI,declarant_cnpj,47.702.912/4016-37
+ddi_0020,DDI,ncm,39269090
+ddi_0020,DDI,container_number,HRCB5989306
+ddi_0020,DDI,gross_weight_kg,"5.938,858"
+ddi_0020,DDI,bl_number,SUDULZK6U0G8X
+ddi_0020,DDI,country_origin,INDIA
+ddi_0020,DDI,customs_value_brl,"821.943,51"
+ddi_0020,DDI,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ctac_0001,CTAC,document_type,CTAC
+ctac_0001,CTAC,document_number,CTAC-2026-18602
+ctac_0001,CTAC,registration_date,27/10/2025
+ctac_0001,CTAC,importer_name,COSTA AZUL TRADING S A
+ctac_0001,CTAC,importer_cnpj,05.620.928/9931-82
+ctac_0001,CTAC,declarant_cnpj,33.913.060/1747-40
+ctac_0001,CTAC,ncm,40169300
+ctac_0001,CTAC,container_number,VWKF6594560
+ctac_0001,CTAC,gross_weight_kg,"17.780,685"
+ctac_0001,CTAC,bl_number,MBLC77OGQEQM
+ctac_0001,CTAC,country_origin,COREIA DO SUL
+ctac_0001,CTAC,customs_value_brl,"365.330,98"
+ctac_0001,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0002,CTAC,document_type,CTAC
+ctac_0002,CTAC,document_number,CTAC-2026-44267
+ctac_0002,CTAC,registration_date,29/10/2025
+ctac_0002,CTAC,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ctac_0002,CTAC,importer_cnpj,09.344.905/4935-55
+ctac_0002,CTAC,declarant_cnpj,69.151.364/7804-90
+ctac_0002,CTAC,ncm,39269090
+ctac_0002,CTAC,container_number,WXON2244841
+ctac_0002,CTAC,gross_weight_kg,"22.212,570"
+ctac_0002,CTAC,bl_number,MSCU7H0YT6UCV
+ctac_0002,CTAC,country_origin,COREIA DO SUL
+ctac_0002,CTAC,customs_value_brl,"123.434,89"
+ctac_0002,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0003,CTAC,document_type,CTAC
+ctac_0003,CTAC,document_number,CTAC-2026-12271
+ctac_0003,CTAC,registration_date,18/04/2025
+ctac_0003,CTAC,importer_name,ATLANTICO SUL INDUSTRIA E COMERCIO LTDA
+ctac_0003,CTAC,importer_cnpj,93.270.154/4212-72
+ctac_0003,CTAC,declarant_cnpj,35.248.725/1979-74
+ctac_0003,CTAC,ncm,85371090
+ctac_0003,CTAC,container_number,CIOI3331178
+ctac_0003,CTAC,gross_weight_kg,"16.582,910"
+ctac_0003,CTAC,bl_number,ONEYDB1NLARQ6
+ctac_0003,CTAC,country_origin,CHINA
+ctac_0003,CTAC,customs_value_brl,"91.328,99"
+ctac_0003,CTAC,port_terminal,RECINTO ALFANDEGADO MODELO
+ctac_0004,CTAC,document_type,CTAC
+ctac_0004,CTAC,document_number,CTAC-2025-75498
+ctac_0004,CTAC,registration_date,08/09/2025
+ctac_0004,CTAC,importer_name,ATLANTICO SUL INDUSTRIA E COMERCIO LTDA
+ctac_0004,CTAC,importer_cnpj,39.159.557/5922-04
+ctac_0004,CTAC,declarant_cnpj,52.219.084/5705-51
+ctac_0004,CTAC,ncm,40169300
+ctac_0004,CTAC,container_number,CPWG5156394
+ctac_0004,CTAC,gross_weight_kg,"14.822,303"
+ctac_0004,CTAC,bl_number,ONEYHDTIFXIST
+ctac_0004,CTAC,country_origin,INDIA
+ctac_0004,CTAC,customs_value_brl,"947.223,28"
+ctac_0004,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0005,CTAC,document_type,CTAC
+ctac_0005,CTAC,document_number,CTAC-2026-53064
+ctac_0005,CTAC,registration_date,01/01/2025
+ctac_0005,CTAC,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+ctac_0005,CTAC,importer_cnpj,85.520.842/5229-99
+ctac_0005,CTAC,declarant_cnpj,60.900.639/0773-02
+ctac_0005,CTAC,ncm,39269090
+ctac_0005,CTAC,container_number,LKIY9773704
+ctac_0005,CTAC,gross_weight_kg,"16.473,872"
+ctac_0005,CTAC,bl_number,COSUMVHH34P6C
+ctac_0005,CTAC,country_origin,CHINA
+ctac_0005,CTAC,customs_value_brl,"292.064,75"
+ctac_0005,CTAC,port_terminal,RECINTO ALFANDEGADO MODELO
+ctac_0006,CTAC,document_type,CTAC
+ctac_0006,CTAC,document_number,CTAC-2025-90856
+ctac_0006,CTAC,registration_date,17/02/2025
+ctac_0006,CTAC,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ctac_0006,CTAC,importer_cnpj,32.337.738/4958-56
+ctac_0006,CTAC,declarant_cnpj,86.650.343/6723-11
+ctac_0006,CTAC,ncm,84713012
+ctac_0006,CTAC,container_number,TIYE0122029
+ctac_0006,CTAC,gross_weight_kg,"11.131,729"
+ctac_0006,CTAC,bl_number,MSCUMRBJ6WY75
+ctac_0006,CTAC,country_origin,COREIA DO SUL
+ctac_0006,CTAC,customs_value_brl,"153.256,05"
+ctac_0006,CTAC,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ctac_0007,CTAC,document_type,CTAC
+ctac_0007,CTAC,document_number,CTAC-2026-91279
+ctac_0007,CTAC,registration_date,20/03/2026
+ctac_0007,CTAC,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+ctac_0007,CTAC,importer_cnpj,06.272.077/1789-33
+ctac_0007,CTAC,declarant_cnpj,01.785.682/7733-09
+ctac_0007,CTAC,ncm,94036000
+ctac_0007,CTAC,container_number,ZDCN6404191
+ctac_0007,CTAC,gross_weight_kg,"8.421,036"
+ctac_0007,CTAC,bl_number,HBLYD59XJ9LL
+ctac_0007,CTAC,country_origin,ALEMANHA
+ctac_0007,CTAC,customs_value_brl,"58.346,37"
+ctac_0007,CTAC,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ctac_0008,CTAC,document_type,CTAC
+ctac_0008,CTAC,document_number,CTAC-2026-91526
+ctac_0008,CTAC,registration_date,19/10/2025
+ctac_0008,CTAC,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+ctac_0008,CTAC,importer_cnpj,33.080.032/7525-43
+ctac_0008,CTAC,declarant_cnpj,57.928.109/9015-38
+ctac_0008,CTAC,ncm,73181500
+ctac_0008,CTAC,container_number,BNYN0672441
+ctac_0008,CTAC,gross_weight_kg,"12.252,236"
+ctac_0008,CTAC,bl_number,MBL3QN8DMUTS
+ctac_0008,CTAC,country_origin,ESTADOS UNIDOS
+ctac_0008,CTAC,customs_value_brl,"744.562,14"
+ctac_0008,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0009,CTAC,document_type,CTAC
+ctac_0009,CTAC,document_number,CTAC-2026-16598
+ctac_0009,CTAC,registration_date,13/12/2025
+ctac_0009,CTAC,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+ctac_0009,CTAC,importer_cnpj,85.908.919/7881-67
+ctac_0009,CTAC,declarant_cnpj,16.209.201/6557-03
+ctac_0009,CTAC,ncm,87089990
+ctac_0009,CTAC,container_number,TVGK9345842
+ctac_0009,CTAC,gross_weight_kg,"15.532,515"
+ctac_0009,CTAC,bl_number,ONEY5RNSDLJ3Z
+ctac_0009,CTAC,country_origin,ITALIA
+ctac_0009,CTAC,customs_value_brl,"818.730,40"
+ctac_0009,CTAC,port_terminal,RECINTO ALFANDEGADO MODELO
+ctac_0010,CTAC,document_type,CTAC
+ctac_0010,CTAC,document_number,CTAC-2025-40635
+ctac_0010,CTAC,registration_date,14/02/2026
+ctac_0010,CTAC,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+ctac_0010,CTAC,importer_cnpj,98.807.571/8611-48
+ctac_0010,CTAC,declarant_cnpj,27.707.623/3335-55
+ctac_0010,CTAC,ncm,85044040
+ctac_0010,CTAC,container_number,UFAS0675437
+ctac_0010,CTAC,gross_weight_kg,"20.606,212"
+ctac_0010,CTAC,bl_number,HBL7D0G0NG06
+ctac_0010,CTAC,country_origin,ALEMANHA
+ctac_0010,CTAC,customs_value_brl,"144.595,62"
+ctac_0010,CTAC,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ctac_0011,CTAC,document_type,CTAC
+ctac_0011,CTAC,document_number,CTAC-2025-53389
+ctac_0011,CTAC,registration_date,04/08/2025
+ctac_0011,CTAC,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ctac_0011,CTAC,importer_cnpj,05.180.619/8358-25
+ctac_0011,CTAC,declarant_cnpj,94.523.977/6110-72
+ctac_0011,CTAC,ncm,85371090
+ctac_0011,CTAC,container_number,DUBY4265935
+ctac_0011,CTAC,gross_weight_kg,"6.204,500"
+ctac_0011,CTAC,bl_number,HBLXKID1D1OA
+ctac_0011,CTAC,country_origin,CHINA
+ctac_0011,CTAC,customs_value_brl,"801.555,48"
+ctac_0011,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0012,CTAC,document_type,CTAC
+ctac_0012,CTAC,document_number,CTAC-2026-22590
+ctac_0012,CTAC,registration_date,20/10/2025
+ctac_0012,CTAC,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ctac_0012,CTAC,importer_cnpj,52.537.820/1598-40
+ctac_0012,CTAC,declarant_cnpj,20.614.418/7931-89
+ctac_0012,CTAC,ncm,39269090
+ctac_0012,CTAC,container_number,QQMQ3807678
+ctac_0012,CTAC,gross_weight_kg,"15.386,128"
+ctac_0012,CTAC,bl_number,COSUADO45NS75
+ctac_0012,CTAC,country_origin,ESTADOS UNIDOS
+ctac_0012,CTAC,customs_value_brl,"140.844,93"
+ctac_0012,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0013,CTAC,document_type,CTAC
+ctac_0013,CTAC,document_number,CTAC-2026-98612
+ctac_0013,CTAC,registration_date,16/02/2026
+ctac_0013,CTAC,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ctac_0013,CTAC,importer_cnpj,00.949.149/6132-04
+ctac_0013,CTAC,declarant_cnpj,12.824.195/6478-22
+ctac_0013,CTAC,ncm,73181500
+ctac_0013,CTAC,container_number,NEIY4832524
+ctac_0013,CTAC,gross_weight_kg,"15.180,336"
+ctac_0013,CTAC,bl_number,HBLHGOUU2GIV
+ctac_0013,CTAC,country_origin,ESTADOS UNIDOS
+ctac_0013,CTAC,customs_value_brl,"610.231,64"
+ctac_0013,CTAC,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ctac_0014,CTAC,document_type,CTAC
+ctac_0014,CTAC,document_number,CTAC-2025-24727
+ctac_0014,CTAC,registration_date,20/08/2025
+ctac_0014,CTAC,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ctac_0014,CTAC,importer_cnpj,62.338.021/4608-50
+ctac_0014,CTAC,declarant_cnpj,64.733.591/4553-71
+ctac_0014,CTAC,ncm,39269090
+ctac_0014,CTAC,container_number,SSIZ1002268
+ctac_0014,CTAC,gross_weight_kg,"4.703,912"
+ctac_0014,CTAC,bl_number,COSUNPL2SB955
+ctac_0014,CTAC,country_origin,ALEMANHA
+ctac_0014,CTAC,customs_value_brl,"781.215,21"
+ctac_0014,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0015,CTAC,document_type,CTAC
+ctac_0015,CTAC,document_number,CTAC-2026-56737
+ctac_0015,CTAC,registration_date,09/03/2026
+ctac_0015,CTAC,importer_name,NOVA ROTA COMERCIO EXTERIOR LTDA
+ctac_0015,CTAC,importer_cnpj,16.514.510/9641-59
+ctac_0015,CTAC,declarant_cnpj,20.371.243/0772-74
+ctac_0015,CTAC,ncm,85371090
+ctac_0015,CTAC,container_number,DDWX1109933
+ctac_0015,CTAC,gross_weight_kg,"26.459,868"
+ctac_0015,CTAC,bl_number,HBLUJXJXOQYS
+ctac_0015,CTAC,country_origin,ALEMANHA
+ctac_0015,CTAC,customs_value_brl,"817.672,61"
+ctac_0015,CTAC,port_terminal,TERMINAL PORTUARIO SINTETICO 01
+ctac_0016,CTAC,document_type,CTAC
+ctac_0016,CTAC,document_number,CTAC-2025-29606
+ctac_0016,CTAC,registration_date,10/09/2025
+ctac_0016,CTAC,importer_name,BRAVO IMPORTADORA DE PECAS LTDA
+ctac_0016,CTAC,importer_cnpj,01.309.431/1959-15
+ctac_0016,CTAC,declarant_cnpj,14.790.524/3506-32
+ctac_0016,CTAC,ncm,94036000
+ctac_0016,CTAC,container_number,SAKQ7609569
+ctac_0016,CTAC,gross_weight_kg,"8.790,090"
+ctac_0016,CTAC,bl_number,HBLB1HA29H0X
+ctac_0016,CTAC,country_origin,ALEMANHA
+ctac_0016,CTAC,customs_value_brl,"170.497,80"
+ctac_0016,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0017,CTAC,document_type,CTAC
+ctac_0017,CTAC,document_number,CTAC-2026-31313
+ctac_0017,CTAC,registration_date,13/07/2025
+ctac_0017,CTAC,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ctac_0017,CTAC,importer_cnpj,89.770.409/5041-16
+ctac_0017,CTAC,declarant_cnpj,36.177.650/7828-38
+ctac_0017,CTAC,ncm,39269090
+ctac_0017,CTAC,container_number,NHYG8148213
+ctac_0017,CTAC,gross_weight_kg,"4.437,525"
+ctac_0017,CTAC,bl_number,HBLSSU32TSB8
+ctac_0017,CTAC,country_origin,MEXICO
+ctac_0017,CTAC,customs_value_brl,"315.953,48"
+ctac_0017,CTAC,port_terminal,RECINTO ALFANDEGADO MODELO
+ctac_0018,CTAC,document_type,CTAC
+ctac_0018,CTAC,document_number,CTAC-2025-51869
+ctac_0018,CTAC,registration_date,30/09/2025
+ctac_0018,CTAC,importer_name,ALFA COMERCIO INTERNACIONAL LTDA
+ctac_0018,CTAC,importer_cnpj,97.824.022/3372-22
+ctac_0018,CTAC,declarant_cnpj,13.951.986/7242-33
+ctac_0018,CTAC,ncm,85044040
+ctac_0018,CTAC,container_number,EWAP1152841
+ctac_0018,CTAC,gross_weight_kg,"6.489,848"
+ctac_0018,CTAC,bl_number,ONEY3BZAGKI5F
+ctac_0018,CTAC,country_origin,CHINA
+ctac_0018,CTAC,customs_value_brl,"877.232,04"
+ctac_0018,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0019,CTAC,document_type,CTAC
+ctac_0019,CTAC,document_number,CTAC-2026-74295
+ctac_0019,CTAC,registration_date,01/02/2026
+ctac_0019,CTAC,importer_name,DELTA LOGISTICA E IMPORTACAO LTDA
+ctac_0019,CTAC,importer_cnpj,05.490.416/3920-50
+ctac_0019,CTAC,declarant_cnpj,53.791.516/9846-76
+ctac_0019,CTAC,ncm,87089990
+ctac_0019,CTAC,container_number,ITKF4335588
+ctac_0019,CTAC,gross_weight_kg,"5.766,489"
+ctac_0019,CTAC,bl_number,MSCUI006D9DIG
+ctac_0019,CTAC,country_origin,ITALIA
+ctac_0019,CTAC,customs_value_brl,"520.383,15"
+ctac_0019,CTAC,port_terminal,PORTO DEMONSTRATIVO
+ctac_0020,CTAC,document_type,CTAC
+ctac_0020,CTAC,document_number,CTAC-2026-15173
+ctac_0020,CTAC,registration_date,25/03/2025
+ctac_0020,CTAC,importer_name,COSTA AZUL TRADING S A
+ctac_0020,CTAC,importer_cnpj,28.458.783/4316-77
+ctac_0020,CTAC,declarant_cnpj,43.335.791/0345-85
+ctac_0020,CTAC,ncm,85044040
+ctac_0020,CTAC,container_number,NGCQ0287977
+ctac_0020,CTAC,gross_weight_kg,"28.090,986"
+ctac_0020,CTAC,bl_number,MBLFG5GCVYNC
+ctac_0020,CTAC,country_origin,ALEMANHA
+ctac_0020,CTAC,customs_value_brl,"436.941,91"
+ctac_0020,CTAC,port_terminal,TERMINAL PORTUARIO SINTETICO 01

@@ -1,0 +1,17 @@
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.uncommitted
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
