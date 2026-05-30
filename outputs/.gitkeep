@@ -1,0 +1,5 @@
+# This directory holds evaluation output files:
+# - metrics_output.xlsx
+# - field_accuracy.csv
+# - document_accuracy.csv
+# - ocr_ranking.csv
